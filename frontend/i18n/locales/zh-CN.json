@@ -1,6 +1,6 @@
 {
   "app": {
-    "title": "BeanMail-24小时匿名邮箱"
+    "title": "ZMAIL-24小时匿名邮箱"
   },
   "common": {
     "loading": "加载中...",
@@ -20,6 +20,9 @@
     "failed": "失败",
     "unknown": "未知",
     "empty": "暂无数据",
+    "blog": "博客",
+    "youtube": "油管频道",
+    "xugouMonitor": "xugou监控",
     "privacyPolicy": "隐私政策",
     "terms": "使用条款",
     "about": "关于我们"
@@ -93,6 +96,47 @@
     "generic": "发生错误，请稍后重试",
     "notFound": "未找到请求的资源"
   },
+  "intro": {
+    "features": {
+      "title": "核心功能",
+      "privacy": {
+        "title": "隐私保护",
+        "description": "无需注册，不收集个人信息，完全匿名使用"
+      },
+      "temporary": {
+        "title": "临时邮箱",
+        "description": "24小时有效期，自动过期删除，避免垃圾邮件困扰"
+      },
+      "anonymous": {
+        "title": "匿名接收",
+        "description": "保护真实邮箱地址，防止信息泄露和骚扰"
+      },
+      "instant": {
+        "title": "即时创建",
+        "description": "一键生成临时邮箱，立即可用，操作简单便捷"
+      }
+    },
+    "useCases": {
+      "title": "使用场景",
+      "verification": {
+        "title": "一次性验证",
+        "description": "接收验证码、确认邮件等临时验证需求"
+      },
+      "downloads": {
+        "title": "软件下载",
+        "description": "下载软件、获取资源时避免营销邮件"
+      },
+      "testing": {
+        "title": "测试验证",
+        "description": "开发测试、邮件验证功能时的理想工具"
+      }
+    },
+    "security": {
+      "title": "安全提示",
+      "warning1": "请勿用于接收重要或敏感信息，临时邮箱不保证数据安全性",
+      "warning2": "邮箱内容可能被他人访问，请避免包含个人隐私信息",
+      "warning3": "邮箱将在24小时后自动删除，请及时保存重要内容"
+    },
     "faq": {
       "title": "常见问题",
       "q1": {
@@ -146,14 +190,14 @@
       "title": "7. 条款变更",
       "item1": "我们有权根据需要随时修改本使用条款，变更内容将在页面显著位置公告。"
     },
-    "conclusion": "感谢您使用BeanMail临时邮箱服务！"
+    "conclusion": "感谢您使用zmail临时邮箱服务！"
   },
   "about": {
     "title": "关于我们",
-    "subtitle": "了解BeanMail临时邮箱服务的背景和理念。",
+    "subtitle": "了解zmail临时邮箱服务的背景和理念。",
     "intro": {
       "title": "项目简介",
-      "content": "BeanMail是一个开源的临时邮箱服务，旨在为用户提供安全、便捷的临时电子邮箱解决方案。我们致力于保护用户隐私，避免垃圾邮件的困扰。"
+      "content": "zmail是一个开源的临时邮箱服务，旨在为用户提供安全、便捷的临时电子邮箱解决方案。我们致力于保护用户隐私，避免垃圾邮件的困扰。"
     },
     "features": {
       "title": "核心特性",
@@ -187,7 +231,7 @@
     },
     "tech": {
       "title": "技术架构",
-      "intro": "BeanMail采用现代化的技术栈构建：",
+      "intro": "zmail采用现代化的技术栈构建：",
       "frontend": {
         "title": "前端",
         "desc": "React + TypeScript + Tailwind CSS"
@@ -207,7 +251,7 @@
     },
     "opensource": {
       "title": "开源信息",
-      "intro": "BeanMail是一个完全开源的项目，遵循MIT开源协议。我们欢迎社区贡献代码、提出建议或报告问题。",
+      "intro": "zmail是一个完全开源的项目，遵循MIT开源协议。我们欢迎社区贡献代码、提出建议或报告问题。",
       "github": {
         "title": "GitHub仓库"
       },
@@ -231,7 +275,7 @@
         "title": "邮箱"
       }
     },
-    "conclusion": "感谢您选择BeanMail临时邮箱服务！"
+    "conclusion": "感谢您选择zmail临时邮箱服务！"
     },
   "privacy": {
     "title": "隐私政策",
@@ -282,6 +326,6 @@
       "title": "联系我们",
       "item1": "如果您对本隐私政策有任何疑问，请通过GitHub Issues联系我们。"
     },
-    "conclusion": "感谢您信任并使用BeanMail临时邮箱服务！"
+    "conclusion": "感谢您信任并使用zmail临时邮箱服务！"
   }
 }
