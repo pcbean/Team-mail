@@ -93,47 +93,6 @@
     "generic": "发生错误，请稍后重试",
     "notFound": "未找到请求的资源"
   },
-  "intro": {
-    "features": {
-      "title": "核心功能",
-      "privacy": {
-        "title": "隐私保护",
-        "description": "无需注册，不收集个人信息，完全匿名使用"
-      },
-      "temporary": {
-        "title": "临时邮箱",
-        "description": "24小时有效期，自动过期删除，避免垃圾邮件困扰"
-      },
-      "anonymous": {
-        "title": "匿名接收",
-        "description": "保护真实邮箱地址，防止信息泄露和骚扰"
-      },
-      "instant": {
-        "title": "即时创建",
-        "description": "一键生成临时邮箱，立即可用，操作简单便捷"
-      }
-    },
-    "useCases": {
-      "title": "使用场景",
-      "verification": {
-        "title": "一次性验证",
-        "description": "接收验证码、确认邮件等临时验证需求"
-      },
-      "downloads": {
-        "title": "软件下载",
-        "description": "下载软件、获取资源时避免营销邮件"
-      },
-      "testing": {
-        "title": "测试验证",
-        "description": "开发测试、邮件验证功能时的理想工具"
-      }
-    },
-    "security": {
-      "title": "安全提示",
-      "warning1": "请勿用于接收重要或敏感信息，临时邮箱不保证数据安全性",
-      "warning2": "邮箱内容可能被他人访问，请避免包含个人隐私信息",
-      "warning3": "邮箱将在24小时后自动删除，请及时保存重要内容"
-    },
     "faq": {
       "title": "常见问题",
       "q1": {
