@@ -20,9 +20,6 @@
     "failed": "Failed",
     "unknown": "Unknown",
     "empty": "No data",
-    "blog": "Blog",
-    "youtube": "YouTube",
-    "xugouMonitor": "Xugou Monitor",
     "privacyPolicy": "Privacy Policy",
     "terms": "Terms of Service",
     "about": "About Us"
@@ -96,63 +93,7 @@
     "generic": "An error occurred, please try again later",
     "notFound": "The requested resource was not found"
   },
-  "intro": {
-    "features": {
-      "title": "Core Features",
-      "privacy": {
-        "title": "Privacy Protection",
-        "description": "No registration required, no personal information collected, completely anonymous"
-      },
-      "temporary": {
-        "title": "Temporary Email",
-        "description": "24-hour validity period, automatic expiration and deletion, avoid spam troubles"
-      },
-      "anonymous": {
-        "title": "Anonymous Reception",
-        "description": "Protect your real email address, prevent information leakage and harassment"
-      },
-      "instant": {
-        "title": "Instant Creation",
-        "description": "One-click generation of temporary email, ready to use immediately, simple and convenient"
-      }
-    },
-    "useCases": {
-      "title": "Use Cases",
-      "verification": {
-        "title": "One-time Verification",
-        "description": "Receive verification codes, confirmation emails and other temporary verification needs"
-      },
-      "downloads": {
-        "title": "Software Downloads",
-        "description": "Avoid marketing emails when downloading software and getting resources"
-      },
-      "testing": {
-        "title": "Testing & Verification",
-        "description": "Ideal tool for development testing and email verification functions"
-      }
-    },
-    "security": {
-      "title": "Security Notice",
-      "warning1": "Do not use for receiving important or sensitive information, temporary email does not guarantee data security",
-      "warning2": "Email content may be accessed by others, please avoid including personal privacy information",
-      "warning3": "The mailbox will be automatically deleted after 24 hours, please save important content in time"
-    },
-    "faq": {
-      "title": "FAQ",
-      "q1": {
-        "question": "How long is the mailbox valid?",
-        "answer": "All mailboxes are valid for 24 hours and will be automatically deleted after expiration."
-      },
-      "q2": {
-        "question": "Can I send emails?",
-        "answer": "This service only supports receiving emails, not sending emails."
-      },
-      "q3": {
-        "question": "Is email content secure?",
-        "answer": "All email content is only stored during the validity period and will be automatically deleted after expiration. Please check important information in time."
-      }
-    }
-  },
+
   "terms": {
     "title": "Terms of Service",
     "subtitle": "Please read the following terms carefully before using this temporary email service. Using the service means you agree to this agreement.",
