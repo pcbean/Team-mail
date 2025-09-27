@@ -1,4 +1,4 @@
-name = "zmail"
+name = "temp-mail"
 main = "worker/src/index.ts"
 
 # 打包配置
